@@ -1,0 +1,1 @@
+C:\Users\ashto\kotlin2\app\build\classes\kotlin\main\kotlinhello\App.class;C:\Users\ashto\kotlin2\app\build\classes\kotlin\main\kotlinhello\AppKt.class
